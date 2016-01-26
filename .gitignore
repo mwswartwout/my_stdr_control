@@ -45,3 +45,19 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# Swap files
+*.swp
+
+# Video files
+*.mp4
+
+# TeX files
+*.aux
+*.log
+*.synctex.gz
+*.tex
+
+# YouCompleteMe config
+.ycm_extra_conf.py
+
