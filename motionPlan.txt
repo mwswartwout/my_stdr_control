@@ -1,0 +1,16 @@
+Forward 1
+Left 1
+Forward 2
+Right 2
+Forward 3
+Left 3
+Forward 4
+Left 4
+Forward 5
+Right 5
+Forward 6
+Left 6
+Forward 7
+Right 7
+Forward 8
+Halt 8
